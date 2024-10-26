@@ -1,0 +1,5 @@
+## Wer bin ich?
+
+Ich arbeite jetzt seit vier Jahren an der TIB Hannover im Team Digitale Langzeitarchivierung. Zu meinen Aufgaben gehört dort auch die Arbeit mit Metadaten. Unsere Archivierungssoftware benötigt für jede zu archivierende Einheit eine XML-Datei mit den Daten im Dublin Core Format. Von den Datenlieferanten erhalten wir zwar XMLs, das Metadatenformat ist aber oft ein anderes: MARC21, Jats, Mets oder auch verlagseigene Formate. **PICA k10 Plus** In solchen Fällen schreibe ich also eine XSLT, die die diese in Dublin Core konvertiert.
+
+Damit habe ich also schon einige Erfahrung mit Metadaten, aber die ist nur recht oberflächlich. Ich weiß z.B., dass es in DC nur das Feld creator gibt, während andere Formate die Möglichkeit bieten zwischen Autor:in, Fotograf:in, Maler:in usw. zu unterscheiden, aber intensiv beschäftigt, habe ich mich nicht mit den Unterschieden. Genauso wenig, weiß ich etwas über eventuelle Probleme, die auftreten, wenn man Metadaten von DC in ein anderes Format übertragen möchte (oder zwischen zwei nicht-DC Formaten), da das in meiner Arbeit nicht vorkommt.
