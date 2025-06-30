@@ -1,46 +1,16 @@
-.maincontainer {
-  width: 980px;
-  margin: 0 auto;
-  border: solid 1px #000;
-}
+body {
+  background-image: linear-gradient(to right, red, yellow, blue);
 
-.logo {
-  background-image: url("logo.jpg");
-  background-position: right;
-  background-repeat: no-repeat;
-  height: 250px;
-  border: solid 1px #000;
-}
-
-.topnavigation {
-  height: 60px;
-  border: solid 1px #000;
-  position: center;
-}
-
-.contentarea {
-  border: solid 1px #000;
-}
-
-.textblock {
-  min-height: 50px;
-  margin: 10px 15px 0 15px;
-  padding: 5px;
-  border: solid 1px #000;
-}
-
-.textblock:hover {
-  box-shadow: 5px 5px 7px grey;
-}
-
-.footer {
-  height: 25px;
-  text-align: right;
-  border: solid 1px #000;
 }
 
 table {
-border: dotted 2px;
+  border: dotted 2px;
+  width: 50%;
+  align: center;
+}
+
+tr, th {
+  border: solid 1px;
 }
 
 span {
