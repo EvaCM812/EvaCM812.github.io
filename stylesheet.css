@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(to bottom right, red , blue);
+  background-image: linear-gradient(to right, #f7f6f6 , #d6c0b3);
 }
 
 
@@ -9,7 +9,7 @@ table {
 
 th {
   background-color: #dfd9ff;
-  font: 15px Willow, sans-serif;
+  font-family: 25px fantasy, sans-serif;
 }
 
 td {
