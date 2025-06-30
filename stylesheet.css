@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(to right, red, orange, yellow, green, blue, purple);
+  background-image: linear-gradient(to right, #ffffff, #fffffe, #ffffee, #fffeee, #ffeeee, #feeeee);
 
 }
 
@@ -9,7 +9,10 @@ table {
   width: 50%;
 }
 
-th,
+th {
+  background-color: #dfd9ff;
+}
+
 td {
   text-align: left;
   padding: 8px;
@@ -17,17 +20,10 @@ td {
 }
 
 tr:nth-child(even) {
-  background-color: Lightgreen;
+  background-color: #d9fffd;
 }
 
-span {
-  border: solid 1px #000013;
-  color: #fff;
-  background-image: linear-gradient(to right, #8400ff, #00d9ff);
-  border-radius: 20px;
-  background-size: 100% auto;
-  font-size: 17px;
-  padding: 15px;
-  margin: 2px;
+tr:nth-child(odd) {
+  background-color: #ffeed9;
 }
 
