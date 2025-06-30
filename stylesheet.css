@@ -1,12 +1,11 @@
 body {
-  background-image: linear-gradient(to right, #ffffff, #fffffe, #ffffee, #fffeee, #ffeeee, #feeeee);
+  background-image: linear-gradient(to right, #ffffff, #ffffee, #ffeeee, #eeeeee, #eeeedd, #eedddd);
 
 }
 
 
 table {
   border: dotted 2px;
-  width: 50%;
 }
 
 th {
@@ -14,8 +13,7 @@ th {
 }
 
 td {
-  text-align: left;
-  padding: 8px;
+  padding: 5px;
   border: solid 1px;
 }
 
